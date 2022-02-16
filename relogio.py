@@ -15,3 +15,6 @@ def relogio():
     else:
         print ('Valor ultrapassa os minutos permitidos!/n')
 
+
+def main():
+    pass
